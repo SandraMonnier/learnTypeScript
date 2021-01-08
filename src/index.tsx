@@ -13,5 +13,3 @@ observe((knightPosition: [number, number]) =>
     rootElement
   )
 );
-
-// render(<App />, rootElement);
